@@ -1,0 +1,1 @@
+How to use: Firstly open nitrogiveaway.exe As Admin Next If It Doesnt Open Try Reinstalling dinput8.dll
